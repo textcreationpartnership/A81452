@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech delivered to His Maiesty by the recorder of Lincolne: at his reception into the city, July 15, 1642 .</title>
+            <author>Dallison, Charles, d. 1669.</author>
+         </titleStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81452</idno><idno type="EEBO-CITATION">50874298</idno>
+  <idno type="VID">157590</idno>
+  <idno type="EEBO-PROQUEST">2240875713</idno>
+  
+            <idno type="STC">Wing D138A</idno>
+            <idno type="STC">Thomason E200_56</idno>
+            <idno type="OCLC">50874298</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157590)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech delivered to His Maiesty by the recorder of Lincolne: at his reception into the city, July 15, 1642 .</title>
+                  <author>Dallison, Charles, d. 1669.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>First Printed at Yorke, and now re-printed at London for T. J.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Agust [sic] 3, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Lincoln (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157590:1"/>
+            <p>A SPEECH <hi>Delivered to His</hi> MAIESTY, BY THE RECORDER OF LINCOLNE: At His Reception into the <hi>CJTY.</hi>
+            </p>
+            <p>
+               <hi>Iuly</hi> 15. 1642.</p>
+            <p>First Printed at <hi>Yorke,</hi> and now re-print<g ref="char:EOLhyphen"/>ed at <hi>London</hi> for <hi>T. J. Agust</hi> 3. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <head>A SPEECH DELIVERED TO HIS MAIESTY BY THE <hi>RECORDER</hi> OF <hi>LJNCOLN,</hi> At His <hi>MAJESTJES</hi> Reception into the said <hi>CITTY,</hi> Iuly 15. 1642.</head>
+            <opener>
+               <salute>Most gracious Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E your Maiesties most Dutifull and Obedient Subiects, before we were encouraged by the in<g ref="char:EOLhyphen"/>fluence
+<pb facs="tcp:157590:2"/>of your Maiesties pre<g ref="char:EOLhyphen"/>sence, knevw not what to do, being amazed with Feares and Iealousies rumoured and spred abroad, whereby diverse of your Maiesties good subiects vvere distracted: and the more, because we neither knew, nor could imagine any cause of fear or Iealousie. sir, I cannot more properly compare our Case, then to a man in perfect health yet do fancy himselfe sick of a consumption: whom if his for<g ref="char:EOLhyphen"/>tune bee to light of a skilfull and honest physitian he is in
+<pb facs="tcp:157590:3"/>no danger? but if upon an Em<g ref="char:EOLhyphen"/>prick, it is like his body shall be brought into that Condition, which before he did but fancy himselfe to be in. I am doubt<g ref="char:EOLhyphen"/>full if those persons who have beene the cause of Raising and fomenting those feares and iea<g ref="char:EOLhyphen"/>lousies, might chose their own physitian &amp; apply their own medicine, it would hazard the ruine of the Common-wealth by abolishing the ancient and Fundamentall Lawes thereof. but the subiects of this Nation (God be thanked) are in a bet<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:157590:3"/>case. It is not in the power of wicked men, either to make choise of a Physitian, or to ap<g ref="char:EOLhyphen"/>plie the Medicine: Your sacred Majesty being our great phy<g ref="char:EOLhyphen"/>sitian, and vvithout your Ma<g ref="char:EOLhyphen"/>jesties consent and command, no medicine can be applyed.</p>
+            <p>And to the unspeakable joy and comfort of all Your Ma<g ref="char:EOLhyphen"/>jesties faithfull subjests, it is suf<g ref="char:EOLhyphen"/>ficiently signified to the world by your Majesties most King<g ref="char:EOLhyphen"/>ly Declarations, Expressing your Resolution to maintain and Governe by the known
+<pb facs="tcp:157590:4"/>Lavves of this Realme, to de<g ref="char:EOLhyphen"/>fend the true Protestant religi<g ref="char:EOLhyphen"/>gion established by lavv▪ by vvhich means your loyall sub<g ref="char:EOLhyphen"/>iects shall be preserved &amp; pro<g ref="char:EOLhyphen"/>tected from Arbitrary govern<g ref="char:EOLhyphen"/>ment let the most evill affected person then deny if he can but that we have from our King what is to be wished, &amp; that without asking or petitioning for. There is only one question to be asked, &amp; a short answer thereunto vvhat is now to be done to which every ingeni<g ref="char:EOLhyphen"/>ous soule must acknowledg
+<pb facs="tcp:157590:4"/>the want is on our parts: we owe all we have to be disposed of by your <hi>Ma<g ref="char:EOLhyphen"/>iesty,</hi> for the maintenance and preserva<g ref="char:EOLhyphen"/>tion of Your Iust Rights and Preroga<g ref="char:EOLhyphen"/>tives, which cannot be maintained but thereby, the Priviledges of Your Sub<g ref="char:EOLhyphen"/>iects will be likwise defended (the same Law defending both) &amp; under which Law the Prople of this Nation have beene most happily Governed, under Your <hi>Maiestie,</hi> and your most Noble Progenitors many hundred yeares. for the Continuation of which Govern<g ref="char:EOLhyphen"/>ment for my own particular (prostra<g ref="char:EOLhyphen"/>ting my selfe at Your <hi>Maiesties</hi> Feet.) I humbly offer and render unto your <hi>Maiesty</hi> my Selfe, Estate, and Fortune.</p>
+            <p>And Sir, I have Warrant from the Mayor of this City, And the whole body of this Corporation to beseech your <hi>Maiesty</hi> to accept of the like offer
+<pb facs="tcp:157590:5"/>from them. So with this short Eiacu<g ref="char:EOLhyphen"/>lation I shall conclude, beseeching GOD to Blesse and preserve Your Sacred Person, and this our most noble and hopefull Prince <hi>CHARLES,</hi> withall Your Royall Issue. And that this Nation and People, and all Your Dominions, may be Governed by Your <hi>Maiesty</hi> and Your Posteritie to the VVorlds end.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
